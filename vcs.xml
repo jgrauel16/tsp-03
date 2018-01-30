@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/INF16A/SE4_Airplane.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jgrauel16/SE4_Airplane.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\henri\Desktop\Software Engineering\01_teil_01\03_implementierung\03_training\02_workspace\" />
+    <option name="cloneParentDir" value="C:\Users\henri\Desktop\Software Engineering\02_teil_02\02_service_orientierte_architekturen\02_implementierung\02_training\04_workspace" />
   </component>
 </application>
