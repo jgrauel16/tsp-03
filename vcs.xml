@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/jgrauel16/SE4_Airplane.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jgrauel16/SE4_Airplane/tree/persistence.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\henri\Desktop\Software Engineering\02_teil_02\02_service_orientierte_architekturen\02_implementierung\02_training\04_workspace" />
